@@ -12,3 +12,7 @@ def dividir_dois_numeros(num1, num2):
         return num1 / num2
     except(ZeroDivisionError):
         return 'Não é possível dividir por zero'
+
+def inverter_sinal(num1):
+    return 0
+   
